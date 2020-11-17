@@ -1,11 +1,13 @@
 # Face-Mask-Detection-Using-MobileNET-
 A deep learning model to detect face mask in images using MobileNET. <br />
+I used GPU accelerator for this model since teh GPU version of Tensorflow was required for MobileNet.<br /> 
+You can use your own GPU system or if you don't have a GPU you can either use GOOGLE COLAB or KAGGLE kernels which provide their own GPU kernels. <br />
 
 Libraries used: <br />
 Tensorflow <br />
 Keras <br />
 Numpy <br />
-Pandas <br /><br />
+Pandas <br />
 OpenCV <br />
 Scipy <br />
 
